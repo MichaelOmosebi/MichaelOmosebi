@@ -16,7 +16,6 @@ I'm a Data Scientist who is passionate about Software Engineering.
 💻 **Renewable Energy Data Analyst** experienced in designing and building analytical tools and applications.  
 🚀 **Passionate about performance, scalability, and writing clean, maintainable code**.  
 🌍 **Always learning** and exploring **DevOps, Backend Engineering, and ML-driven solutions**.
-
 🎬 **Music Lover** and focused on developing technological solutions in **Biological/Agricultural Engineering**
 
 
