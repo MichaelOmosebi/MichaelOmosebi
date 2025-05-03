@@ -13,9 +13,7 @@ I'm a Data Scientist who is passionate about Software Engineering.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/michaelomosebi/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kristileremi/?hl=en)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=Twitter&logoColor=white)]([https://twitter.com/your_username](https://x.com/Mike_Omosebi?s=08))
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cyr.us._?igsh=ZGUzMzM3NWJiOQ==)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your_username)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Mike_Omosebi?s=08)
 
 
 
