@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @MichaelOmosebi
-- 👀 I’m interested in Collaborating, improving my skills and improving myself as a Data Scientist
-- 🌱 I’m currently learning Python for Web Development.
-- 💞️ I will collaborate on any aspect, although I would specialize in Renewable energy and Bioresource Engineering solutions.
-- 📫 How to reach me: omosebimichael@live.com
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&random=false&width=435&lines=Data+Scientist;Backend+Developer;Biological+Engineering+Student;DevOps+Enthusiast)](https://git.io/typing-svg)
 
@@ -38,9 +33,6 @@ I'm a Data Scientist who is passionate about Software Engineering.
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MichaelOmosebi&icon=0&color=0)](https://visitcount.itsvg.in)
