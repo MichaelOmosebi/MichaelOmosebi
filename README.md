@@ -47,14 +47,14 @@ I'm a Data Scientist who is passionate about Software Engineering.
 
 ## 🚀 Goals for 2025  
 
-✅ **Build scalable full-stack applications**  
+✅ **Complete a functional backend for an EdTech solution**  
 ✅ **Expand expertise in DevOps & CI/CD pipelines**  
-✅ **Explore AI & ML integration in software development**  
+✅ **Explore ML integration in software development**  
 ✅ **Bacome a Certified ALX Learner** 
 
 ---
 
-## 📬 Let's Connect  
+## 📬 Let's Connect
 
 📌 I’m open to discussions on software engineering.  
 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/michaelomosebi/)**!  
